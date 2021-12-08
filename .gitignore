@@ -3,3 +3,4 @@ node_modules/
 session-store.db
 *.yml
 lib/users.sql
+.env
